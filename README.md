@@ -21,12 +21,13 @@ Navigate to the bottom of the Google Sheets to find the sheet tabs, where you ca
 - Maintained test suites, streamlined tests, and reduced test execution time by 15%
 
 ### Orchestra (February 2024 - Present)
-** Software QA Engineer*
+**Software QA Engineer**
 - Identified system requirements with developers and product managers, converting 95% of requirements into test cases.
 - Created over 200 manual test cases, which increased bug detection by 15%.
 - Wrote and executed functional and regression tests for two web apps and two mobile apps, ensuring robust test coverage.
 - Utilized JIRA for bug tracking and issue management, improving communication with developers and speeding up issue resolution by 20%.
 - Built and tested 29 different virtual devices using BrowserStack, Android Studio, and Xcode.
+- 
 ### MyHealth Champions (02/19 - 05/21)
 **Manual QA Engineer**
 - Charged as a developer and test engineer for an insurance provider website, supporting individuals in the $532B trucking industry
@@ -88,10 +89,9 @@ Navigate to the bottom of the Google Sheets to find the sheet tabs, where you ca
 
 ## 📚 Professional Development
 
-- **ISTQB CTFL Certification** (anticipated completion 2024)
+- **ISTQB CTFL Certification** (anticipated completion 2025)
 - **API Testing Certification**, Careerist
 - **Software Testing and Quality Assurance Certification**, Careerist
-- **Web Developer Certificate**, American River College
 
 ## 💡 Tools & Technologies
 
